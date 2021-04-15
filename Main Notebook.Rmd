@@ -2,7 +2,7 @@
 title: "Main Project Rmd Notebook"
 author: "Madeline Arnold"
 date: "4/15/2021"
-output: html_document
+output: github_document
 ---
 
 ```{r setup, include=FALSE}
