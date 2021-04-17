@@ -1,7 +1,5 @@
 Figures
 ================
-Madeline Arnold
-4/16/2021
 
 Polished figures for presentations and publication. Named
 chronologically with date followed by content

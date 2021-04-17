@@ -1,8 +1,0 @@
----
-title: "Results"
-author: "Madeline Arnold"
-date: "4/16/2021"
-output: github_document
----
-
-Output from analyses

@@ -1,8 +1,0 @@
----
-title: "Source code"
-author: "Madeline Arnold"
-date: "4/16/2021"
-output: github_document
----
-
-Store source code here (project-wide code you use again and again). Common pieces of code should be stored here for use in multiple notebooks rather than copy and pasting.

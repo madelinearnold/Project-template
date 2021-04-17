@@ -1,7 +1,5 @@
 Supplementary Notebooks
 ================
-Madeline Arnold
-4/16/2021
 
 Store notebooks here that contain in-progress code or supplementary code
 not critical to the main analysis performed in the main project
