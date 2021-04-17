@@ -2,6 +2,6 @@
 title: "Reports"
 author: "Madeline Arnold"
 date: "4/16/2021"
-output: html_document
+output: github_document
 ---
 Polished PDF notebooks, manuscripts, and a folder for polished figures.

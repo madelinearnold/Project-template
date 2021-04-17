@@ -2,7 +2,7 @@
 title: "Reference material"
 author: "Madeline Arnold"
 date: "4/16/2021"
-output: html_document
+output: github_document
 ---
 
 Explanatory materials like literature articles, pdfs, slides, data dictionaries, anything that gives background and context.
