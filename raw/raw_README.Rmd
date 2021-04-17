@@ -1,0 +1,8 @@
+---
+title: "Raw data"
+author: "Madeline Arnold"
+date: "4/16/2021"
+output: html_document
+---
+
+Store your original, untouched data files here for import into notebooks or use in scripts for data cleaning.

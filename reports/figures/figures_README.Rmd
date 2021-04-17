@@ -1,0 +1,9 @@
+---
+title: "Figures"
+author: "Madeline Arnold"
+date: "4/16/2021"
+output: html_document
+---
+
+Polished figures for presentations and publication. Named chronologically with date followed by content (e.g. YYYYMMDD_experiment), or by date and publication and figure number (e.g. YYYYMMDD_Pub1_Fig1a)
+

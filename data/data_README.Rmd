@@ -1,10 +1,10 @@
 ---
-title: "data_README"
+title: "Cleaned and Processed Datasets"
 author: "Madeline Arnold"
 date: "4/16/2021"
-output: html_document
+output: github_document
 ---
 
-## Data folder template
+### Data folder template
 
-### Store processed/cleaned data to be used for downstream analysis in this folder. Raw untouched data should be in the raw folder instead.
+Store processed/cleaned data to be used for downstream analysis in this folder. Raw untouched data should be in the raw folder instead.
