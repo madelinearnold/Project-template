@@ -6,7 +6,7 @@ This repository template has logical thematic organization at top levels, with t
 
 ### Directories and files:
 
-* notebook.Rmd - main notebook for project containing reproducible analyses and figure output
+* Main-notebook.Rmd - main notebook for project containing reproducible analyses and figure output
 * raw - untouched raw data 
 * data - processed/cleaned data to be used for analysis
 * results - output from analyses
