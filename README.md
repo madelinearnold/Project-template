@@ -1,6 +1,6 @@
 # Project-template
 
-#Example text here
+#Example simpleconflict here
 
 This template is a system of files and folders to use for data science projects for consistency and ease of use! Project repository structure informed and inspired by [towards data science](https://towardsdatascience.com/manage-your-data-science-project-structure-in-early-stage-95f91d4d0600), [cookiecutter](https://drivendata.github.io/cookiecutter-data-science/#directory-structure), [Noble](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1000424), and [outlierbio](https://github.com/outlierbio/ob-project-template).
 
