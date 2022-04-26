@@ -1,0 +1,45 @@
+---
+title: "Main Project Rmd Notebook"
+author: "Madeline Arnold"
+date: "4/15/2021"
+output: github_document
+---
+
+# Project Title
+
+## Analysis Setup
+
+```{r setup, include=FALSE}
+# set the global options so for all code chunks the default option is showing the code along with the results
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r load-libraries}
+# load required libraries, e.g. tidyverse
+load(tidyverse)
+
+```
+
+## Data Import and Cleaning
+
+```{r data-import, echo = FALSE}
+# with echo = FALSE, results but not the code will be displayed in the knit document
+
+```
+
+```{r data-cleaning}
+
+```
+
+## Data Visualization
+
+```{r plot, fig.width=8, fig.height=6}
+
+```
+
+
+## R Markdown
+
+This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
+
+When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:
