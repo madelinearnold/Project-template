@@ -11,7 +11,7 @@ This repository template has logical thematic organization at top levels, with t
 * results - output from analyses
 * src - source code (project-wide code you use again and again)
 * test - store sample data sets or scripts for testing
-* notebooks - notebooks containing code for specific tasks (e.g import, exploration, analysis, modeling, visualization)
+* notebooks - notebooks containing code and explanatory text for analysis tasks (e.g import, exploration, analysis, modeling, visualization).
 * reports - polished PDF notebooks, manuscripts
   + figures - figures for presentations and publication
 * references - explanatory materials like literature articles, pdfs, slides, data dictionaries, anything that gives background and context
